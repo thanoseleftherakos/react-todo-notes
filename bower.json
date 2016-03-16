@@ -1,0 +1,22 @@
+{
+  "name": "react-todo-notes ",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Thanos Eleftherakos <teleftherakos@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.5.0",
+    "Materialize": "materialize#^0.97.5"
+  }
+}
